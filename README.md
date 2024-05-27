@@ -89,11 +89,11 @@ L'experiència de l'usuari dins de l'aplicació no és només **individual**, si
 
 Entenem la **hibridació** de la plataforma digital **FitXR** com una combinació entre el món tecnològic i el real, on aquests dos es troben i submergeixen a la persona en un espai digital amb el qual pot interaccionar gràcies al món físic. Aquesta convergència entre els dos espais ofereixen una experiència immersiva al consumidor on el món digital i el físic poden coexistir simultàniament i crear una nova forma de fer ús de la tecnologia.
 
-### Conclusions 
+## Conclusions 
 
 En conclusió, encara que la plataforma de Twitch i l'aplicació FitXR es poden percebre molt diferents, ambdues plataformes comparteixen el fet d'haver passat per un procés d'hibridació. En el primer cas, Twitch combina la possibilitat de poder interaccionar i crear comunitats amb el fet de generar contingut en directe, generant una hibridació entre els elements socials i els digitals. En FitXR l'aplicació hibrida la realitat augmentada amb el món físic, on aquests dos espais es troben i coexisteixen formant així una nova forma d'interaccionar amb la tecnologia.
 
-### Referències i Bibliografia
+## Referències i Bibliografia
 
 **_Universitat Oberta de Catalunya (UOC)_ (2022). Disponible a: [https://www.uoc.edu/portal/ca/index.html](https://www.uoc.edu/portal/ca/index.html) (Consultat: 24 de maig 2022).**
 
