@@ -10,7 +10,7 @@
 La hibridació, segons **Lev Manovich**, és un concepte que intenta explicar com els mitjans digitals transformen i fan mestissatges entre els diferents mitjans que existeixen, generant així un nou híbrid.  
 >"Es decir, el resultado de la hibridación no es  tan solo la suma mecánica de las  partes  existentes  previamente, sino una nueva «especie»: un nuevo  tipo de estética visual que no existía  antes."  
 
-**Manovick, L. (2013) El software toma el mando. 29. Barcelona: UocPress. Disponible a: [Manovich, Lev. "El software toma el mando" (2013) [Introducción, y Capítulo 1]. .](https://cv.uoc.edu/webapps/cas/login?service=https%3A%2F%2Fcv.uoc.edu%2Ftren%2Ftrenacc%3Fmodul%3DDIMAX.DINAROJ%2Fdimaxweb.Pagina%26pantalla%3DHISTORICS%26node%3D73486%26entidad_gestora%3DDEF%26entorn_gestio%3DPV20232%26idioma%3DCAT%26lang%3Dca%26pantalla_his%3DXML_ARBRE_RECURSOS%26cami%3D%26p_entrada%3DPV)** (Consultat: 19 de maig 2024).  
+**Manovick, L. (2013) El software toma el mando. 29. Barcelona: UocPress. Disponible a: Manovich, Lev. (2013). "El software toma el mando", Capítulos 4 y 5. Barcelona: Editorial UOC.. .](https://cv.uoc.edu/webapps/cas/login?service=https%3A%2F%2Fcv.uoc.edu%2Ftren%2Ftrenacc%3Fmodul%3DDIMAX.DINAROJ%2Fdimaxweb.Pagina%26pantalla%3DHISTORICS%26node%3D73486%26entidad_gestora%3DDEF%26entorn_gestio%3DPV20232%26idioma%3DCAT%26lang%3Dca%26pantalla_his%3DXML_ARBRE_RECURSOS%26cami%3D%26p_entrada%3DPV)** (Consultat: 19 de maig 2024).  
   
 En aquest assaig, parlaré de dues plataformes: **"Twitch" i "FitXR"** les quals han passat per un procés d'hibridació totalment diferent, ambdues representen com la hibridació està transformant la forma que tenim de consumir la tecnologia, tant en l'àmbit d'entreteniment com de l'esport.
 
